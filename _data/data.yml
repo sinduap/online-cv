@@ -33,22 +33,19 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Indonesia
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Music
           link:
 
-        - item: Snowboarding
+        - item: Reading
           link:
 
         - item: Cooking
@@ -61,20 +58,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Industrial Engineering
+        university: University of Brawijaya
+        time: 2008 - 2014
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -87,9 +73,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Freelance Web Developer/ WordPress
+        time: 2021 - Present
+        company: Freelance, Karawang
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -100,8 +86,11 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Developed front-end web pages with HTML5, CSS3, and JavaScript.
+            - Created application to assess JSON and XML for RESTful web service using JavaScript and React.JS.
+            - Leveraged emerging JavaScript technologies such as Node.js and Express.js for cutting edge product and feature development.
+            - Implemented rich user experiences by creating 30+ new features utilizing HTML/CSS/JS.
+            - Followed industry best practices and learned 3 new technologies.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
