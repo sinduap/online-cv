@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Sindu Andita Pratama
-    tagline: Full Stack Developer
+    tagline: Junior Full Stack Developer
     avatar: sindu.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,14 +55,13 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Personal Statement
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Inventive Entry-Level Web Developer creates novel sites design and innovates user interfaces. Known for architecting customer-facing products that deliver unique     
+      experiences while complying with internal coding standards and technical requirements. Clever provider of fresh assets to grow usership. Resourceful Web Developer 
+      lends hands-on approach to customizing web presence strategy. Two years of experience working to outline organizational needs and translate them into extensive lines 
+      of code that support objectives. Adept creation of scripts using HTML. CSS, and JavaScript to convey unique branding and promote sales and marketing opportunities. 
+      Specialty supporting intricate backend needs and lending assistance throughout webpage lifecycle.
 education:
     title: Education
     info:
