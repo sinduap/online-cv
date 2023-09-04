@@ -130,19 +130,19 @@ projects:
     assignments:
       - title: Onoae
         link: www.onoae.com
-        tagline: "Industrial online shop"
+        tagline: "Industrial online shop designed to help startups promote, market and sell their products."
 
       - title: Forkify
         link: www.forkify-app-final.netlify.app
-        tagline: "Recipe browser app"
+        tagline: "Recipe browser app that offers a helping hand for the user to prepare their dinner."
 
       - title: Mapty
         link: www.sinduap.github.io/mapty
-        tagline: "Workout tracker app"
+        tagline: "Workout tracker app designed specially to help the user to track their workout activities."
 
       - title: Movie Fight
         link: www.sinduap.github.io/movie-fight
-        tagline: "Movie compare app"     
+        tagline: "Movie compare app that help the user make a quick decision on what movie to watch."     
 
 skills:
     title: Skills &amp; Proficiency
