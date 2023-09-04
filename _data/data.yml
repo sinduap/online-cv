@@ -154,11 +154,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML
+      - name: HTML & CSS
         level: 90%
-
-      - name:  CSS
-        level: 85%
 
       - name: JavaScript
         level: 85%
@@ -166,11 +163,8 @@ skills:
       - name: React
         level: 80%
 
-      - name: Express
+      - name: Express & MongoDB
         level: 70%
-
-      - name: MongoDB
-        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
