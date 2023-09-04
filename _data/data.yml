@@ -94,43 +94,23 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Fullstack Open
           start: 2020
           end: 2021
-          organization: Microsoft
+          organization: University of Helsinki, Houston
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: www.studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/31073dbeae3872a8fdf55dcfaef80f22
+          credentialname: studies.cs.helsinki
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+          
         - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          start: 2022
+          end: 2025
+          organization: dicoding
+          credentialid: 2VX31KQ3VZYQ
+          credentialurl: https://www.dicoding.com/certificates/2VX31KQ3VZYQ
+          credentialname: dicoding
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
