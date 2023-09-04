@@ -125,30 +125,24 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: |
+    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Onoae
+        link: www.onoae.com
+        tagline: "Industrial online shop"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Forkify
+        link: www.forkify-app-final.netlify.app
+        tagline: "Recipe browser app"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Mapty
+        link: www.sinduap.github.io/mapty
+        tagline: "Workout tracker app"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Movie Fight
+        link: www.sinduap.github.io/movie-fight
+        tagline: "Movie compare app"     
 
 skills:
     title: Skills &amp; Proficiency
