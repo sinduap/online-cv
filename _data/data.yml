@@ -100,7 +100,7 @@ certifications:
           organization: University of Helsinki, Houston
           credentialid:
           credentialurl: www.studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/31073dbeae3872a8fdf55dcfaef80f22
-          credentialname: 
+          credentialname: studies.cs.helsinki
           details: |
           
         - name: Belajar Fundamental Front-End Web Development
@@ -109,16 +109,16 @@ certifications:
           organization: dicoding
           credentialid: 6RPN6D7R8P2M
           credentialurl: www.dicoding.com/certificates/6RPN6D7R8P2M
-          credentialname: 
+          credentialname: dicoding
           details: |
 
-          - name: JavaScript Algorithms and Data Structures
+        - name: JavaScript Algorithms and Data Structures
           start: 2022
           end: 
           organization: freeCodeCamp
           credentialid: 
           credentialurl: www.freecodecamp.org/certification/sindu/javascript-algorithms-and-data-structures
-          credentialname: 
+          credentialname: freecodecamp
           details: |
 
 projects:
